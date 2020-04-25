@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/main/static/css/main.cb1a9e58.chunk.css",
+    "main.js": "/main/static/js/main.59ad58ad.chunk.js",
+    "main.js.map": "/main/static/js/main.59ad58ad.chunk.js.map",
+    "runtime-main.js": "/main/static/js/runtime-main.378739c3.js",
+    "runtime-main.js.map": "/main/static/js/runtime-main.378739c3.js.map",
+    "static/css/2.69121389.chunk.css": "/main/static/css/2.69121389.chunk.css",
+    "static/js/2.044530e9.chunk.js": "/main/static/js/2.044530e9.chunk.js",
+    "static/js/2.044530e9.chunk.js.map": "/main/static/js/2.044530e9.chunk.js.map",
+    "index.html": "/main/index.html",
+    "precache-manifest.84e8b46e125627bd338057e61606654a.js": "/main/precache-manifest.84e8b46e125627bd338057e61606654a.js",
+    "service-worker.js": "/main/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/main/static/css/2.69121389.chunk.css.map",
+    "static/css/main.cb1a9e58.chunk.css.map": "/main/static/css/main.cb1a9e58.chunk.css.map",
+    "static/js/2.044530e9.chunk.js.LICENSE.txt": "/main/static/js/2.044530e9.chunk.js.LICENSE.txt",
+    "static/media/Burger-Builder.png": "/main/static/media/Burger-Builder.5341d8ea.png",
+    "static/media/Shethabhish Resume.pdf": "/main/static/media/Shethabhish Resume.9ce41af5.pdf",
+    "static/media/bg.jpg": "/main/static/media/bg.fc9e3652.jpg",
+    "static/media/coder.png": "/main/static/media/coder.6fc9d589.png",
+    "static/media/ebg.jpg": "/main/static/media/ebg.d608ac90.jpg",
+    "static/media/gitpf.PNG": "/main/static/media/gitpf.63d84f8e.PNG",
+    "static/media/ibg.jpg": "/main/static/media/ibg.afa5e3d6.jpg",
+    "static/media/sbg.jpg": "/main/static/media/sbg.aa57886e.jpg",
+    "static/media/shethabhish.jpg": "/main/static/media/shethabhish.4b7ec24d.jpg",
+    "static/media/streams.png": "/main/static/media/streams.6eeb114e.png",
+    "static/media/swoosh.png": "/main/static/media/swoosh.83d4fca6.png",
+    "static/media/todowoo.PNG": "/main/static/media/todowoo.4a287469.PNG",
+    "static/media/tours.png": "/main/static/media/tours.cb8362af.png",
+    "static/media/tracalorie.PNG": "/main/static/media/tracalorie.5fe0b7f4.PNG",
+    "static/media/youtube.PNG": "/main/static/media/youtube.b8e43f70.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.378739c3.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.044530e9.chunk.js",
+    "static/css/main.cb1a9e58.chunk.css",
+    "static/js/main.59ad58ad.chunk.js"
+  ]
+}
